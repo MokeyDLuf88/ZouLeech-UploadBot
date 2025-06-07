@@ -1,7 +1,7 @@
 <p align="center">
     <a href="https://github.com/VJBots/WZML-X">
         <kbd>
-            <img width="250" src="https://graph.org/file/639fe4239b78e5862b302.jpg" alt="WZML-X Logo">
+            <img width="250" src="https://i.ibb.co/mFcvhB1W/50760effb784.jpg" alt="WZML-X Logo">
         </kbd>
     </a>
 
